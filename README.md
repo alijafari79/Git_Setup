@@ -14,3 +14,4 @@ To generate SSH key on your linux device :
 Use this command : 
 
 $ ssh-keygen -t rsa -b 4096 -C "alijafari13791397@gmail.com"
+`<,dnasljnlasjdlask>`
