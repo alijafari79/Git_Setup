@@ -21,7 +21,6 @@ you need a SSH key to introduce your device to your account :**
 	Now asks for password : Enter your password. ( If no need for password --- again press **Enter**)
 
 
-
 	After this part you have 2 files created at the path you specified :(by default : /home/ali/.ssh )
 
 	These 2 files have default names (defualt names : id_rsa, id_rsa.pub ) 
