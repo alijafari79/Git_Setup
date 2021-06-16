@@ -3,7 +3,7 @@
 
 1) First to install all about git in linux :
 
-	`$ sudo apt-get install git`
+	**`$ sudo apt-get install git`**
 
 	Now git is installed and no need to build it from Source !
 
@@ -14,11 +14,10 @@ you need a SSH key to introduce your device to your account :
 
 	**`$ ssh-keygen -t rsa -b 4096 -C "your_email_here"`**
 
-3) After running the above command press **Enter** to save the SSH key in its default path !
+	After running the above command press **Enter** to save the SSH key in its default path !
 
-- Otherwise can set your own password to generate files there (just has 2 files)
+	Otherwise can set your own password to generate files there (just has 2 files)
 
-Now asks for password : Enter your password
-If no need for password ---> again press **Enter**
+	Now asks for password : Enter your password. ( If no need for password --- again press **Enter**)
 
 
