@@ -5,16 +5,14 @@
 
 	`$ sudo apt-get install git`
 
-Now git is installed and no need to build it from Source !
+	Now git is installed and no need to build it from Source !
 
 2) Then to connect git to your github account, 
 you need a SSH key to introduce your device to your account : 
 
-	To generate SSH key on your linux device : 
+	To generate SSH key on your linux device , use this command : 
 
-	Use this command : 
-
-	`$ ssh-keygen -t rsa -b 4096 -C "alijafari13791397@gmail.com"`
+	**`$ ssh-keygen -t rsa -b 4096 -C "your_email_here"`**
 
 3) After running the above command press **Enter** to save the SSH key in its default path !
 
