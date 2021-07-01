@@ -3,6 +3,7 @@
 
 **1) First to install all about git in linux :**
 
+
 	**`$ sudo apt-get install git`**
 
 	Now git is installed and no need to build it from Source !
