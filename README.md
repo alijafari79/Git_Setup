@@ -10,6 +10,7 @@
 **2) Then to connect git to your github account, 
 you need a SSH key to introduce your device to your account :**
 
+
 	To generate SSH key on your linux device , use this command : 
 
 	**`$ ssh-keygen -t rsa -b 4096 -C "your_email_here"`**
