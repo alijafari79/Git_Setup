@@ -28,6 +28,7 @@ you need a SSH key to introduce your device to your account :**
 	These 2 files have default names (defualt names : id_rsa, id_rsa.pub ) 
 
 
+
 	The content of file at **`/home/ali/.ssh/id_rsa.pub`** is your public key needed, 
 	
 	needed to introduce your device to your account !
