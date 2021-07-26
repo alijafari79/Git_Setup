@@ -1,7 +1,6 @@
 # Git Full Setup and Connect to Github Account : 
 **Here I provide the full instruction to install Git on linux and set it up with your github repo.**
 
-
 **1) First to install all about git in linux :**
 
 	**`$ sudo apt-get install git`**
